@@ -35,7 +35,7 @@ const ContactForm = () => {
                     </Col>
                 </FormGroup>
                 <FormGroup row>
-                    <Label htmlFor='phoneNum' >
+                    <Label htmlFor='phoneNum' md="2">
                         Phone
                     </Label>
                     <Col md='10'>
